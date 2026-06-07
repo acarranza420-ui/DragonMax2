@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>DragonMax Repository</title>
+</head>
+<body>
+  <h1>DragonMax RD Repository</h1>
+  <ul>
+    <li><a href="repository.dragonmax-1.6.0.zip">repository.dragonmax-1.6.0.zip</a></li>
+    <li><a href="plugin.program.dragonmaxwizard-1.6.0.zip">plugin.program.dragonmaxwizard-1.6.0.zip</a></li>
+    <li><a href="addons.xml">addons.xml</a></li>
+  </ul>
+</body>
+</html>
